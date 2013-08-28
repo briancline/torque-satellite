@@ -8,10 +8,11 @@ def load_codes(file_name):
     codes = {}
 
     for line in open(file_name, 'r'):
-        if not line:
+        line = line.strip()
+        if not line or line[0] == '#':
             continue
         try:
-            code, torque_name = line.strip().split(None, 1)
+            code, torque_name = line.split(None, 1)
         except:
             print('Invalid line: %s' % line)
             continue
