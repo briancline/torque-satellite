@@ -121,7 +121,7 @@ Vehicle Instrumentation
 | Throttle Position(Manifold)                        |      11 |      k11 |
 | Timing Advance                                     |      0e |      k0e |
 | Torque                                             |         |  kff1225 |
-| Transmission Temperature(Method 1)                 |  fe1805 |  kfe1805 |
+| Transmission Temperature(Method 1)                 |         |  kfe1805 |
 | Transmission Temperature(Method 2)                 |      b4 |      kb4 |
 | Trip average KPL                                   |         |  kff1206 |
 | Trip average Litres/100 KM                         |         |  kff1208 |
