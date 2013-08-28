@@ -12,8 +12,6 @@ This project is not at all associated with the developer of Torque.
 To Do
 -----
 
-* Add known OBDII and Torque codes for my vehicle, a 2005 Toyota Tacoma
-  Prerunner double-cab
 * Add publisher support for MQTT, AMQP, and ZeroMQ
 * Add backend support for SQLite, MySQL, and Postgres
 * Simple start on the frontend showing trips and data log

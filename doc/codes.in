@@ -1,0 +1,143 @@
+ff122e 0-100kph Time
+ff124f 0-200kph Time
+ff1277 0-30mph Time
+ff122d 0-60mph Time
+ff122f 1/4 mile time
+ff1230 1/8 mile time
+ff1264 100-0kph Time
+ff1260 40-60mph Time
+ff1265 60-0mph Time
+ff125e 60-120mph Time
+ff1276 60-130mph Time
+ff125f 60-80mph Time
+ff1261 80-100mph Time
+ff1275 80-120kph Time
+47 Absolute Throttle Position B
+ff1223 Acceleration Sensor(Total)
+ff1220 Acceleration Sensor(X axis)
+ff1221 Acceleration Sensor(Y axis)
+ff1222 Acceleration Sensor(Z axis)
+49 Accelerator PedalPosition D
+4a Accelerator PedalPosition E
+4b Accelerator PedalPosition F
+ff124d Air Fuel Ratio(Commanded)
+ff1249 Air Fuel Ratio(Measured)
+12 Air Status
+46 Ambient air temp
+ff1263 Average trip speed(whilst moving only)
+ff1272 Average trip speed(whilst stopped or moving)
+ff1270 Barometer (on Android device)
+33 Barometric pressure (from vehicle)
+3c Catalyst Temperature (Bank 1 Sensor 1)
+3e Catalyst Temperature (Bank 1 Sensor 2)
+3d Catalyst Temperature (Bank 2 Sensor 1)
+3f Catalyst Temperature (Bank 2 Sensor 2)
+44 Commanded Equivalence Ratio(lambda)
+ff126d Cost per mile/km (Instant)
+ff126e Cost per mile/km (Trip)
+ff1258 CO₂ in g/km (Average)
+ff1257 CO₂ in g/km (Instantaneous)
+ff126a Distance to empty (Estimated)
+31 Distance travelled since codes cleared
+21 Distance travelled with MIL/CEL lit
+2c EGR Commanded
+2d EGR Error
+05 Engine Coolant Temperature
+ff1273 Engine kW (At the wheels)
+04 Engine Load
+43 Engine Load(Absolute)
+5c Engine Oil Temperature
+0c Engine RPM
+52 Ethanol Fuel %
+32 Evap System Vapour Pressure
+78 Exhaust Gas Temperature 1
+79 Exhaust Gas Temperature 2
+ff125c Fuel cost (trip)
+ff125d Fuel flow rate/hour
+ff125a Fuel flow rate/minute
+2f Fuel Level (From Engine ECU)
+0a Fuel pressure
+23 Fuel Rail Pressure
+22 Fuel Rail Pressure (relative to manifold vacuum)
+ff126b Fuel Remaining (Calculated from vehicle profile)
+03 Fuel Status
+07 Fuel Trim Bank 1 Long Term
+14 Fuel trim bank 1 sensor 1
+15 Fuel trim bank 1 sensor 2
+16 Fuel trim bank 1 sensor 3
+17 Fuel trim bank 1 sensor 4
+06 Fuel Trim Bank 1 Short Term
+09 Fuel Trim Bank 2 Long Term
+18 Fuel trim bank 2 sensor 1
+19 Fuel trim bank 2 sensor 2
+1a Fuel trim bank 2 sensor 3
+1b Fuel trim bank 2 sensor 4
+08 Fuel Trim Bank 2 Short Term
+ff1271 Fuel used (trip)
+ff1239 GPS Accuracy
+ff1010 GPS Altitude
+ff123b GPS Bearing
+ff1006 GPS Latitude
+ff1005 GPS Longitude
+ff123a GPS Satellites
+ff1237 GPS vs OBD Speed difference
+ff1226 Horsepower (At the wheels)
+0f Intake Air Temperature
+0b Intake Manifold Pressure
+ff1203 Kilometers Per Litre(Instant)
+ff5202 Kilometers Per Litre(Long Term Average)
+ff1207 Litres Per 100 Kilometer(Instant)
+ff5203 Litres Per 100 Kilometer(Long Term Average)
+10 Mass Air Flow Rate
+ff1201 Miles Per Gallon(Instant)
+ff5201 Miles Per Gallon(Long Term Average)
+24 O2 Sensor1 Equivalence Ratio
+34 O2 Sensor1 Equivalence Ratio(alternate)
+ff1240 O2 Sensor1 wide-range Voltage
+25 O2 Sensor2 Equivalence Ratio
+ff1241 O2 Sensor2 wide-range Voltage
+26 O2 Sensor3 Equivalence Ratio
+ff1242 O2 Sensor3 wide-range Voltage
+27 O2 Sensor4 Equivalence Ratio
+ff1243 O2 Sensor4 wide-range Voltage
+28 O2 Sensor5 Equivalence Ratio
+ff1244 O2 Sensor5 wide-range Voltage
+29 O2 Sensor6 Equivalence Ratio
+ff1245 O2 Sensor6 wide-range Voltage
+2a O2 Sensor7 Equivalence Ratio
+ff1246 O2 Sensor7 wide-range Voltage
+2b O2 Sensor8 Equivalence Ratio
+ff1247 O2 Sensor8 wide-range Voltage
+ff1214 O2 Volts Bank 1 sensor 1
+ff1215 O2 Volts Bank 1 sensor 2
+ff1216 O2 Volts Bank 1 sensor 3
+ff1217 O2 Volts Bank 1 sensor 4
+ff1218 O2 Volts Bank 2 sensor 1
+ff1219 O2 Volts Bank 2 sensor 2
+ff121a O2 Volts Bank 2 sensor 3
+ff121b O2 Volts Bank 2 sensor 4
+5a Relative Accelerator Pedal Position
+45 Relative Throttle Position
+1f Run time since engine start
+ff1001 Speed (GPS)
+0d Speed (OBD)
+11 Throttle Position(Manifold)
+ff124a Tilt(x)
+ff124b Tilt(y)
+ff124c Tilt(z)
+0e Timing Advance
+ff1225 Torque
+fe1805 Transmission Temperature(Method 1)
+b4 Transmission Temperature(Method 2)
+ff1206 Trip average KPL
+ff1208 Trip average Litres/100 KM
+ff1205 Trip average MPG
+ff1204 Trip Distance
+ff120c Trip distance (stored in vehicle profile)
+ff1266 Trip Time(Since journey start)
+ff1268 Trip Time(whilst moving)
+ff1267 Trip time(whilst stationary)
+ff1202 Turbo Boost & Vacuum Gauge
+42 Voltage (Control Module)
+ff1238 Voltage (OBD Adapter)
+ff1269 Volumetric Efficiency (Calculated)
